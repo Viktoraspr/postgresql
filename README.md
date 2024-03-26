@@ -27,7 +27,7 @@ Install package:
 # Usage
 
 Data are prepared using two classes in files manage_csv_file.py and file_management.py files. All MetaData must be written in constants.
-db_management.py file contains classes that create connections with DB.
+db_management.py file contains classes that create connections with database.
 
 Database ERD schema: 
 ![image](https://github.com/TuringCollegeSubmissions/vipranc-DE1.4/assets/68908834/e7d7a188-9ad4-4919-97bd-7e11633d8022)
